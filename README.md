@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Burak
+### Full Stack Dev From Istanbul / Turkey
+
+
 
 <!--
 **burakyagizyilmaz/burakyagizyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
