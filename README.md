@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning .NET CORE and React.
 - 💬 Ask me about anything whatever you want!
 - 📫 How to reach me: From Linkedin :)
+- There is no difference between db first or code first approaches as long as you build professionally. Don't be fanboy! :)
 
 ### Connect with me:
 
