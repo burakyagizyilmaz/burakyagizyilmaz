@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer From Istanbul / Turkey</h3>
 
 
-- 🔭 I’m currently working on .NET Framework, MSSQL, JQuery etc.
-- 🌱 I’m currently learning .NET CORE and React.
+- 🔭 I’m currently working on .NET Framework, .NET Core, React Native, MSSQL, JQUERY, MONGODB, PGSql etc.
+- 🌱 I’m currently learning PL/SQL.
 - 💬 Ask me about anything whatever you want!
 - 📫 How to reach me: From Linkedin :)
 - There is no difference between db first or code first approaches as long as you build professionally. Don't be fanboy! :)
